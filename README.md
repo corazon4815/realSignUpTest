@@ -1,2 +1,2 @@
 # realSignUpTest
-intellij maven spring mvc mybatis mysql
+intellij maven spring mvc mybatis mysql setting
